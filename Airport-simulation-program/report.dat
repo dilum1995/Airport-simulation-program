@@ -1,0 +1,16 @@
+
+
+------------------------------------Simulation Report-----------------------------------
+
+		Records of the Q1                                         Records of the Q2                                           
+
+First Name     Last Name      Seconds In Queue		|	First Name    Last Name      Seconds In Queue
+
+suleka         helmini        12             		raneesh        gom            10             
+
+-----------------------------------------Summary of the delay in queues---------------------------------------------------
+
+ Maximum length of the queue_1 attained :    2		Maximum length of the queue_2 attained :    1              
+ Maximum delay in Q1 :                       12		Maximum delay in Q2 :                       10             
+ Minimum delay in Q1 :                       12		Minimum delay in Q2 :                       10             
+ Average delay of Q1 :                       12		Average delay of Q2 :                       10             
